@@ -1,1 +1,1 @@
-# My SQL- roject
+# My SQL project
